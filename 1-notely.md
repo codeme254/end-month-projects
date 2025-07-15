@@ -1,6 +1,9 @@
 # Notely
 Notely is an application that allows users to manage their personal notes and ideas. The goal here is to build a user-friendly application with smooth interactions that mimic the feel of real world note taking apps.
 
+Before you start:
+- In the project description, the term and _note_ and _entry_ are being used interchangeably, they mean one and the same thing, where a note, (also referred to as an entry) is a written record created to capture ideas, thoughts, or any information they want to save. The plural is _notes_ or _entries_ (which also mean the same thing)
+
 ## Key Features
 ### User Authentication
 - Users sign up with the following details
