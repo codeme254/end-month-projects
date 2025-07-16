@@ -61,7 +61,8 @@ Before you start:
 - [Required feature] A simple, small Landing Page that introduces the app and invites users to log in or sign up..
 - [Required feature] protected routes/pages, certain pages (such as the new entry, profile, etc.) must only be accessible to authenticated users. Redirect unauthenticated users to the login page.
 
-## API Endpoints
+## API 
+You're encouraged to add any extra API endpoints you think are necessary to support missing or critical features.
 - `POST /api/auth/register`: register a user
 - `POST /api/auth/login`: login a user.
 - `POST /api/auth/logout`: logout a user.
